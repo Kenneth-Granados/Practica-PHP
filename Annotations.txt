@@ -1,0 +1,4 @@
+
+composer create-project laravel/laravel Api_Rest_Full_Laravell --creacion
+
+php artisan serve --correr
